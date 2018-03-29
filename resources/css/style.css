@@ -1,0 +1,38 @@
+/* universal style */
+
+html, body {
+  font-size: 16px;
+}
+
+/* header */
+
+header {
+  background-color: rgb(35, 2, 63);
+  padding: 1rem 0;
+}
+
+.nav-link {
+  font-family: Righteous;
+  font-size: 2.5rem;
+}
+
+#logo {
+  color: rgb(255, 0, 171);
+}
+
+#logo:hover {
+  color: rgb(255, 102, 204);
+}
+
+.btn-custom {
+  background-color: rgb(255, 0, 171);
+  padding: 0.4rem 1.3rem;
+}
+
+.btn-custom:hover {
+  background-color: rgb(255, 102, 204);
+}
+
+.rounded-edge {
+  border-radius: 1rem;
+}
